@@ -1,0 +1,12 @@
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\StudentApiCrud.exe
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\StudentApiCrud.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\StudentApiCrud.runtimeconfig.json
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\StudentApiCrud.pdb
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\APTECH2210A\SEM3\StudentApiCrud\StudentApiCrud\obj\Release\net7.0\PubTmp\Out\StudentApiCrud.deps.json
